@@ -8,6 +8,11 @@ The project is implemented in Python using popular libraries such as Keras and N
 
 I welcome any feedback on this project. Thank you for checking it out!
 
+## Files
+* [Main PDF with the work and the conclusions](Final%20Project%20in%20AI.pdf)
+* [Colab notebook for the CNN](AI_Project_CNN.ipynb)
+* [Colab notebook for the SVM](AI_Project_SVM.ipynb)
+
 ## Bibliography
 ### Data Citation
 

@@ -1,8 +1,13 @@
-# Welcome to my "Introduction to Artificial Intelligence" final project repository!
+# Welcome to my "Introduction to Artificial Intelligence" course project repository!
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![SKlearn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
-In this project, I explored how different preprocessing techniques and configurations of artificial neural networks (ANNs) can impact the performance of a model for the task of classifying bone marrow cells. I used a dataset containing a collection of over 170,000 de-identified, expert-annotated cells from the bone marrow smears of 945 patients stained using the May-Grünwald-Giemsa/Pappenheim stain. I implemented a variety of preprocessing methods, such as normalization, standardization, and feature selection, to prepare the data for model training. I then trained multiple ANNs with different architectures and hyperparameter settings, and evaluated their performance using various metrics.
+In this project, I explored how different preprocessing techniques and configurations of artificial neural networks (CNNs) can impact the performance of a model for the task of classifying bone marrow cells. I used a dataset containing a collection of over 170,000 de-identified, expert-annotated cells from the bone marrow smears of 945 patients stained using the May-Grünwald-Giemsa/Pappenheim stain. I implemented a variety of preprocessing methods, such as normalization, standardization, and feature selection, to prepare the data for model training. I then trained multiple ANNs with different architectures and hyperparameter settings, and evaluated their performance using various metrics.
 
-My project aims to provide a comprehensive analysis of the effects of preprocessing and ANN/SVM configurations on model performance for this specific task, and to give insights into best practices for these tasks in real-world applications. I hope that this project will be useful for students and practitioners alike as a reference for understanding the impact of these factors on model performance in the context of bone marrow cell classification.
+My project aims to provide a comprehensive analysis of the effects of preprocessing and CNN/SVM configurations on model performance for this specific task, and to give insights into best practices for these tasks in real-world applications. I hope that this project will be useful for students and practitioners alike as a reference for understanding the impact of these factors on model performance in the context of bone marrow cell classification.
 
 The project is implemented in Python using popular libraries such as Keras and Numpy. The code is fully documented and organized into clear, modular functions for easy understanding and reuse.
 

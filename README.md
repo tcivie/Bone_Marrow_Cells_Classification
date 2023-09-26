@@ -17,9 +17,9 @@ I welcome any feedback or comments on this project. Thank you for your time and 
 
 ## 📂 Project Files
 
-Detailed Report with Work and Conclusions (PDF)
-CNN Model - Colab Notebook
-SVM Model - Colab Notebook
+[Detailed Report with Work and Conclusions (PDF)](https://github.com/tcivie/Bone_Marrow_Cells_Classification/blob/main/Final%20Project%20in%20AI.pdf)
+[CNN Model - Colab Notebook](https://github.com/tcivie/Bone_Marrow_Cells_Classification/blob/main/AI_Project_CNN.ipynb)
+[SVM Model - Colab Notebook](https://github.com/tcivie/Bone_Marrow_Cells_Classification/blob/main/AI_Project_SVM.ipynb)
 ## 📚 References
 
 ### 📄 Data Source
